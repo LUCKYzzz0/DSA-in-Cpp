@@ -1,4 +1,4 @@
-//This Code is Exclusively Written by Lucky :)
+//This Code is Exclusively Written by Lucky :ss)
 #include <stdio.h>
 
 int main()
